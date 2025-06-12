@@ -51,4 +51,15 @@ Server Access Logging: Enable server access logging to record detailed requests 
 CloudWatch: Monitor S3 metrics (e.g., storage usage, number of requests, errors) using AWS CloudWatch and set up alerts for unusual activity.
 CloudTrail: Use AWS CloudTrail to log API calls and related events made to S3, providing an audit trail of actions taken.
 Storage Classes: Choose the appropriate S3 storage class based on your access patterns and cost requirements (e.g., S3 Standard for frequently accessed data, S3 Intelligent-Tiering for unknown access patterns, S3 Glacier for archiving).
-By following these steps and best practices, you can effectively create and configure robust, secure, and cost-efficient cloud storage solutions on AWS S3.
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/79cc2339-e117-4f15-b578-e21fbcb50de3)
+![Image](https://github.com/user-attachments/assets/1459ae19-a1a0-4e74-a5ff-0b22eb69d12c)
+![Image](https://github.com/user-attachments/assets/6836c71f-7720-4c39-9f9f-0c97d96def69)
+![Image](https://github.com/user-attachments/assets/d3bd027c-96a9-493a-bf19-4b4b3aa204a8)
+![Image](https://github.com/user-attachments/assets/3a2e0484-961d-4314-a126-066513c33b2f)
+![Image](https://github.com/user-attachments/assets/ae2e1328-4337-42b6-afd3-1c80385df855)
+![Image](https://github.com/user-attachments/assets/93b060da-cfba-43fc-9e46-fac93b87f307)
+![Image](https://github.com/user-attachments/assets/bf9ef0b4-e2e6-4786-83db-4ccfb84164b2)
+![Image](https://github.com/user-attachments/assets/0de13179-fa52-4ec9-92ac-09d6e3e7a9b4)
